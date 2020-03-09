@@ -1,0 +1,9 @@
+//change based on your mongodb information
+
+{
+  "env": {
+    "MONGO_USER": "salim",
+    "MONGO_PASSWORD": "password123",
+    "MONGO_DB": "events-react-dev"
+  }
+}
